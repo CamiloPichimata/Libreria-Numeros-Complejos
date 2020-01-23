@@ -6,27 +6,27 @@
 
 En el siguiente proyecto encontrará información relacionada con los números complejos, incluidas las operaciones mas conocidas para este tipo de números, del mismo modo, encontrará una funsión definida para cada operación en el lenguaje de programación "Python" con una breve explicación de su funcionamiento. A continuación se presenta un índice con las funciones que podrá encontrar a lo largo de esta librería:
 
-Suma
++ Suma
 
-Resta
++ Resta
 
-Producto
++ Producto
 
-División
++ División
 
-Conjugado
++ Conjugado
 
-Módulo
++ Módulo
 
-imprimir en la forma a + bi 
++ Imprimir en la forma a + bi 
 
-Convertir de forma cartesiana (binómica) a polar
++ Convertir de forma cartesiana (binómica) a polar
 
-convertir de forma polar a cartesiana (binómica)
++ Convertir de forma polar a cartesiana (binómica)
 
-imprimir en forma polar - exponencial
++ Imprimir en forma polar - exponencial
 
-potencia n de un número complejo
++ Potencia n de un número complejo
 
 Se debe tener en cuenta que por comodidad los datos se ingresan en forma de lista que tiene como longitud 2, por ejemplo el número complejo 4 + 5i se ingresará como [4, 5i] 
 
