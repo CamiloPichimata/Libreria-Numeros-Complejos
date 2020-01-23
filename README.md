@@ -1,7 +1,7 @@
 # Librería de Números Complejos
 ## Ciencias Naturales Y Tecnología (AYED)
 ## Proyecto No. 1 Librería de Números Complejos
-### Programador: Camilo Andrés Pichimata Cárdenas
+### Por Camilo Andrés Pichimata Cárdenas
 23 / 01 / 2020
 
 En el siguiente proyecto encontrará información relacionada con los números complejos, incluidas las operaciones mas conocidas para este tipo de números, del mismo modo, encontrará una funsión definida para cada operación en el lenguaje de programación "Python" con una breve explicación de su funcionamiento. A continuación se presenta un índice con las funciones que podrá encontrar a lo largo de esta librería:
