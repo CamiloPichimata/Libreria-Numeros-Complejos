@@ -1,5 +1,5 @@
 # Librería de Números Complejos
-## Ciencias Naturales Y Tecnología (AYED)
+## Ciencias Naturales Y Tecnología (CNYT)
 ## Proyecto No. 1 Librería de Números Complejos
 ### Por Camilo Andrés Pichimata Cárdenas
 23 / 01 / 2020
