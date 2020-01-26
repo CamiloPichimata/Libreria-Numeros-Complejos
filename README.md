@@ -4,7 +4,7 @@
 ### Por Camilo Andrés Pichimata Cárdenas
 23 / 01 / 2020
 
-En el siguiente proyecto encontrará información relacionada con los números complejos, incluidas las operaciones mas conocidas para este tipo de números, del mismo modo, encontrará una funsión definida para cada operación en el lenguaje de programación "Python" con una breve explicación de su funcionamiento. A continuación se presenta un índice con las funciones que podrá encontrar a lo largo de esta librería:
+En el siguiente proyecto encontrará información relacionada con los números complejos, incluidas las operaciones más conocidas para este tipo de números, del mismo modo, encontrará una función definida para cada operación en el lenguaje de programación "Python" con una breve explicación de su funcionamiento. A continuación se presenta un índice con las funciones que podrá encontrar a lo largo de esta librería:
 
 + Suma
 
@@ -30,4 +30,4 @@ En el siguiente proyecto encontrará información relacionada con los números c
 
 Se debe tener en cuenta que por comodidad los datos se ingresan en forma de lista que tiene como longitud 2, por ejemplo el número complejo 4 + 5i se ingresará como [4, 5i] 
 
-Además de las funsiones y para comprobar su funcionamiento, se presentan una serie de pruebas (una por funsión) que demostrará el funcionamiento correcto de la misma, estas se podran encontrar en un archivo de tipo .ipynb al cual se podrá acceder, este fue realizado en Jupyter Notebook, un entorno computacional interactivo diseñado para ayudar a los científicos a trabajar con el lenguaje Python y sus datos. 
+Además de las funsiones y para comprobar su funcionamiento, se presentan una serie de pruebas (una por funsión) que demostrará el funcionamiento correcto de la misma, estas se podrán encontrar en un archivo de tipo .ipynb al cual se podrá acceder [aquí](http://htmlpreview.github.io/?https://github.com/CamiloPichimata/Libreria-Numeros-Complejos/blob/master/CNYT_Complejos/Archivos_ipynb/Números_Complejos.ipynb), este fue realizado en Jupyter Notebook, un entorno computacional interactivo diseñado para ayudar a los científicos a trabajar con el lenguaje Python y sus datos. 
