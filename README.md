@@ -36,3 +36,4 @@ Además del archivo anterior, se presentan dos archivos .py, en uno de estos ([L
 
 Tenga en cuenta que para ejecutar el archivo realizado en Jupyter Notebook debe ejecutar cada uno de los módulos o espacios de código donde están propuestas las funciones antes de comenzar a realizar pruebas, ya que algunas están relacionadas o necesitan de otras para dar un resultado.
 
+En caso de no visualizar correctamente los archivos ingresando a los anteriores links, podrá encontrarlos en una carpeta llamada CNYT_Complejos que se encuentra en la parte superior.
